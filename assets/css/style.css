@@ -58,7 +58,7 @@ body {
 
 body {
   font-family: 'Helvetica', 'Arial', sans-serif;
-  background-image: url("http://learning.site/index/assets/images/background.jpg");
+  background-image: url("http://sandbox.misfist.com/index/assets/images/background.jpg");
   background-color: #989898;
   background-size: cover;
   background-position: top;
@@ -95,7 +95,7 @@ section {
     float: right; } }
 
 #home {
-  padding-top: 100px; }
+  padding-top: 60px; }
   #home header {
     padding: 20px; }
   #home h1,
@@ -111,7 +111,7 @@ section {
 
 @media only screen and (min-width: 768px) {
   #home {
-    padding-top: 240px; } }
+    padding-top: 150px; } }
 
 footer {
   background-color: #2D2D2D;
