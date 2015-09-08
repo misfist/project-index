@@ -115,8 +115,8 @@ section {
 
 footer {
   background-color: #2D2D2D;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   color: #fff; }
   footer a,
   footer a:link {
@@ -145,6 +145,11 @@ p + p {
   .btn a,
   .btn a:link {
     color: #fff; }
+    .btn a:hover,
+    .btn a:focus,
+    .btn a:link:hover,
+    .btn a:link:focus {
+      text-decoration: none; }
   .btn:hover,
   .btn:focus {
     color: #fff;
